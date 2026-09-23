@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/DataFarm.Application/DataFarm.Application.csproj" />
+    <Project Path="src/DataFarm.Cli/DataFarm.Cli.csproj" />
+    <Project Path="src/DataFarm.Domain/DataFarm.Domain.csproj" />
+    <Project Path="src/DataFarm.Infrastructure/DataFarm.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/DataFarm.Application.Tests/DataFarm.Application.Tests.csproj" />
+    <Project Path="tests/DataFarm.Domain.Tests/DataFarm.Domain.Tests.csproj" />
+    <Project Path="tests/DataFarm.Infrastructure.Tests/DataFarm.Infrastructure.Tests.csproj" />
+  </Folder>
+</Solution>
